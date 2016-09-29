@@ -15,6 +15,7 @@ Important, innovative, successful work in the field.
 - [Deep Survival Analysis](https://arxiv.org/abs/1608.02158) - Rajesh Ranganath, Adler Perotte, Noémie Elhadad, David Blei, **MLHC 2016**
 
 ## Suggested
+- [Learning (predictive) risk scores in the presence of censoring due to interventions](http://link.springer.com/article/10.1007/s10994-015-5527-7) - Kirill Dyagilev, Suchi Saria, **Machine Learning 2016**
 - [A Bayesian Nonparametic Approach for Estimating Individualized Treatment-Response Curves](https://arxiv.org/pdf/1608.05182v1.pdf) - Yanbo Xu, Yanxun Xu, Suchi Saria, *???*
 - [A Framework for Individualizing Predictions of Disease Trajectories by Exploiting Multi-Resolution Structure](https://arxiv.org/abs/1601.04674) - Peter Schulam, Suchi Saria, **NIPS 2015**
 - [Learning probabilistic phenotypes from heterogeneous EHR data](http://www.ncbi.nlm.nih.gov/pubmed/26464024) - Pivovarov R, Perotte AJ, Grave E, Angiolillo J, Wiggins CH, Elhadad N, **Journal of Biomedical Informatics 2015**
