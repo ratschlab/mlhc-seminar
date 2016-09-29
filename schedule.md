@@ -1,3 +1,5 @@
+Discussion takes place in CAB H53, 16:00 on a Friday.
+
 ## 2016
 ### October
 - *Friday 14th*: ???
