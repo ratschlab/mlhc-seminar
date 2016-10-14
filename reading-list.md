@@ -4,7 +4,7 @@ _Proposed list of papers to cover, in no particular order._
 
 ## Next Up
 
-- [Disease Trajectory Maps](https://arxiv.org/abs/1606.09184) - Peter Schulam, Raman Arora, **NIPS 2016**
+- ???
 
 ## Recommended
 
@@ -13,6 +13,8 @@ Important, innovative, successful work in the field.
 ## Already Covered
 
 - [Deep Survival Analysis](https://arxiv.org/abs/1608.02158) - Rajesh Ranganath, Adler Perotte, Noémie Elhadad, David Blei, **MLHC 2016**
+- [Disease Trajectory Maps](https://arxiv.org/abs/1606.09184) - Peter Schulam, Raman Arora, **NIPS 2016**
+- [Learning to Diagnose with LSTM Recurrent Neural Networks](https://arxiv.org/abs/1511.03677) - Zachary C. Lipton, David C. Kale, Charles Elkan, Randall Wetzell **ICLR 2016**
 
 ## Suggested
 - [ RETAIN: Interpretable Predictive Model in Healthcare using Reverse Time Attention Mechanism](http://arxiv.org/abs/1608.05745) - Edward Choi, Mohammad Taha Bahadori, Andy Schuetz, Walter F. Stewart, Jimeng Sun **NIPS 2016**
