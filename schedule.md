@@ -2,7 +2,7 @@ Discussion takes place in CAB H53, 16:00 on a Friday.
 
 ## 2016
 ### October
-- *Friday 28th*: (Xinrui Lyu) ???
+- *Friday 28th*: (Xinrui Lyu) [Learning probabilistic phenotypes from heterogeneous EHR data](http://www.ncbi.nlm.nih.gov/pubmed/26464024) - Pivovarov R, Perotte AJ, Grave E, Angiolillo J, Wiggins CH, Elhadad N, **Journal of Biomedical Informatics 2015**
 - *Friday 14th*: (Stephanie Hyland) [Learning to Diagnose with LSTM Recurrent Neural Networks](https://arxiv.org/abs/1511.03677) - Zachary C. Lipton, David C. Kale, Charles Elkan, Randall Wetzell **ICLR 2016**
   
 ### September
