@@ -24,3 +24,22 @@ Important, innovative, successful work in the field.
 - [Unsupervised Learning of Disease Progression Models](http://cs.nyu.edu/~dsontag/papers/WanSonWan_kdd14.pdf) - Xiang Wang, David Sontag, Fei Wang, **KDD 2014**
 - [Learning Adaptive Forecasting Models from Irregularly Sampled Multivariate Clinical Data](http://www.zitaoliu.com/download/aaai2016_revision.pdf) - Zitao Liu, Milos Hauskrech, **AAAI 2016**
 - [Recurrent Neural Networks for Multivariate Time Series with Missing Values](https://arxiv.org/abs/1606.01865) - Zhengping Che, Sanjay Purushotham, Kyunghyun Cho, David Sontag, Yan Liu, **???**
+
+## _Maybe_ Relevant
+(pursue at own risk, may be irrelevant/unpublished manuscripts, etc.)
+- [Medical Concept Representation Learning from Electronic Health Records and its Application on Heart Failure Prediction](https://arxiv.org/abs/1602.03686)
+- [Semantic representation of reported measurements in radiology](http://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-016-0248-9)
+- [Machine Learning and the Profession of Medicine](http://jamanetwork.com/journals/jama/fullarticle/2488315)
+- [How to model temporal changes in comorbidity for cancer patients using prospective cohort data](http://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-015-0217-8)
+- [NLP based congestive heart failure case finding: A prospective analysis on statewide electronic medical records](http://www.ijmijournal.com/article/S1386-5056(15)30013-7/abstract?rss=yes)
+- [Electronic medical record-based multicondition models to predict the risk of 30 day readmission or death among adult medicine patients: validation and comparison to existing models](http://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-015-0162-6)
+- [Scalable Modeling of Multivariate Longitudinal Data for Prediction of Chronic Kidney Disease Progression](https://arxiv.org/abs/1608.04615)
+- [Medical image denoising using convolutional denoising autoencoders](https://arxiv.org/abs/1608.04667)
+- [ConfidentCare: A Clinical Decision Support System for Personalized Breast Cancer Screening](https://arxiv.org/abs/1602.00374)
+- [Learning statistical models of phenotypes using noisy labeled training data](http://jamia.oxfordjournals.org/content/23/6/1166)
+- [Efficient identification of nationally mandated reportable cancer cases using natural language processing and machine learning](http://jamia.oxfordjournals.org/content/23/6/1077?rss=1)
+- [Prediction of Sepsis in the Intensive Care Unit With Minimal Electronic Health Record Data: A Machine Learning Approach](http://medinform.jmir.org/2016/3/e28/)
+- [A machine learning-based framework to identify type 2 diabetes through electronic health records](http://www.ijmijournal.com/article/S1386-5056(16)30215-5/fulltext?rss=yes)
+- [A probabilistic network for the diagnosis of acute cardiopulmonary diseases](https://arxiv.org/abs/1609.06864)
+- [Modelling Radiological Language with Bidirectional Long Short-Term Memory Networks](https://arxiv.org/abs/1609.08409)
+- [Learning Schizophrenia Imaging Genetics Data Via Multiple Kernel Canonical Correlation Analysis](https://arxiv.org/abs/1609.04699)
