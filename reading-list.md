@@ -24,6 +24,7 @@ Important, innovative, successful work in the field.
 - [Unsupervised Learning of Disease Progression Models](http://cs.nyu.edu/~dsontag/papers/WanSonWan_kdd14.pdf) - Xiang Wang, David Sontag, Fei Wang, **KDD 2014**
 - [Learning Adaptive Forecasting Models from Irregularly Sampled Multivariate Clinical Data](http://www.zitaoliu.com/download/aaai2016_revision.pdf) - Zitao Liu, Milos Hauskrech, **AAAI 2016**
 - [Recurrent Neural Networks for Multivariate Time Series with Missing Values](https://arxiv.org/abs/1606.01865) - Zhengping Che, Sanjay Purushotham, Kyunghyun Cho, David Sontag, Yan Liu, **???**
+- [DYNACARE: Dynamic Cardiac Arrest Risk Estimation](http://www.jmlr.org/proceedings/papers/v31/ho13b.pdf) - Joyce C. Ho , Yubin Park , Carlos M. Carvalho , Joydeep Ghosh , **AISTATS 2013**
 
 ## _Maybe_ Relevant
 (pursue at own risk, may be irrelevant/unpublished manuscripts, etc.)
