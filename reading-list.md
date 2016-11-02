@@ -19,6 +19,9 @@ Important, innovative, successful work in the field.
 
 ## Suggested
 
+- [Doctor AI: Predicting Clinical Events via Recurrent Neural Networks](https://arxiv.org/abs/1511.05942) - Edward Choi, Mohammad Taha Bahadori, Andy Schuetz, Walter F. Stewart, Jimeng Sun, **MLHC 2016** (formerly MUCMD)
+- [Multi-layer Representation Learning for Medical Concepts](http://www.kdd.org/kdd2016/subtopic/view/multi-layer-representation-learning-for-medical-concepts) - Edward Choi, Mohammad Bahadori, Jimeng Sun, **KDD 2016**
+- [Using recurrent neural network models for early detection of heart failure onset](http://jamia.oxfordjournals.org/content/early/2016/08/13/jamia.ocw112.full) - Edward Choi, Andy Schuetz, Walter F Stewart, Jimeng Sun, **JAMIA 2016**
 - [Efficient Learning of Continuous-Time Hidden Markov Models for Disease Progression](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4804157/) - Yu-Ying Liu, Shuang Li, Fuxin Li, Le Song, and James M. Rehg, **NIPS 2015**
 - [Integrative Analysis Using Coupled Latent Variable Models for Individualizing Prognoses](https://dl.dropboxusercontent.com/u/20167181/Schulam%2BSaria.CLTM.pdf) - P. Schulam, S. Saria **JMLR 2016**
 - [ RETAIN: Interpretable Predictive Model in Healthcare using Reverse Time Attention Mechanism](http://arxiv.org/abs/1608.05745) - Edward Choi, Mohammad Taha Bahadori, Andy Schuetz, Walter F. Stewart, Jimeng Sun **NIPS 2016**
