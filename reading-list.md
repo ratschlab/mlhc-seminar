@@ -19,6 +19,7 @@ Important, innovative, successful work in the field.
 
 ## Suggested
 
+- [Efficient Learning of Continuous-Time Hidden Markov Models for Disease Progression](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4804157/) - Yu-Ying Liu, Shuang Li, Fuxin Li, Le Song, and James M. Rehg, **NIPS 2015**
 - [Integrative Analysis Using Coupled Latent Variable Models for Individualizing Prognoses](https://dl.dropboxusercontent.com/u/20167181/Schulam%2BSaria.CLTM.pdf) - P. Schulam, S. Saria **JMLR 2016**
 - [ RETAIN: Interpretable Predictive Model in Healthcare using Reverse Time Attention Mechanism](http://arxiv.org/abs/1608.05745) - Edward Choi, Mohammad Taha Bahadori, Andy Schuetz, Walter F. Stewart, Jimeng Sun **NIPS 2016**
 - [Learning (predictive) risk scores in the presence of censoring due to interventions](http://link.springer.com/article/10.1007/s10994-015-5527-7) - Kirill Dyagilev, Suchi Saria, **Machine Learning 2016**
