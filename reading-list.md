@@ -4,7 +4,7 @@ _Proposed list of papers to cover, in no particular order._
 
 ## Next Up
 
-- ???
+- [Personalized Risk Scoring for Critical Care Prognosis using Mixtures of Gaussian Processes](https://arxiv.org/abs/1610.08853) - Ahmed M. Alaa, Jinsung Yoon, Scott Hu, Mihaela van der Schaar, **arXiv 2016**
 
 ## Recommended
 
