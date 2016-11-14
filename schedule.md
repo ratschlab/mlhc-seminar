@@ -4,7 +4,8 @@ Discussion takes place in CAB H53, 16:00 on a Friday.
 
 ### November
 
-- *Friday 11th*: (???)
+- *Friday 25th*: (Matthias Hüser) [Personalized Risk Scoring for Critical Care Prognosis using Mixtures of Gaussian Processes](https://arxiv.org/abs/1610.08853) - Ahmed M. Alaa, Jinsung Yoon, Scott Hu, Mihaela van der Schaar, **arXiv 2016**
+- *Friday 11th*: didn't happen
 
 ### October
 - *Friday 28th*: (Xinrui Lyu) [Learning probabilistic phenotypes from heterogeneous EHR data](http://www.ncbi.nlm.nih.gov/pubmed/26464024) - Pivovarov R, Perotte AJ, Grave E, Angiolillo J, Wiggins CH, Elhadad N, **Journal of Biomedical Informatics 2015**
