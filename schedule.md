@@ -1,11 +1,15 @@
-Discussion takes place in CAB H53, 16:00 on a Friday.
+Discussion takes place in CAB H53, 16:00 on a Friday unless otherwise specified.
 
 ## 2016
+
+### December
+
+- *Friday 16th 13:30 H52*: (Xinrui Lyu) [Multi-layer Representation Learning for Medical Concepts](https://arxiv.org/abs/1602.05568) - Edward Choi, Mohammad Taha Bahadori, Elizabeth Searles, Catherine Coffey, Jimeng Sun, **KDD 2016**  
+- *Monday 12th 16:00 H52*: Discussion of work from [MLHC NIPS Workshop](http://www.nipsml4hc.ws/)
 
 ### November
 
 - *Friday 25th*: (Matthias Hüser) [Personalized Risk Scoring for Critical Care Prognosis using Mixtures of Gaussian Processes](https://arxiv.org/abs/1610.08853) - Ahmed M. Alaa, Jinsung Yoon, Scott Hu, Mihaela van der Schaar, **arXiv 2016**
-- *Friday 11th*: didn't happen
 
 ### October
 - *Friday 28th*: (Xinrui Lyu) [Learning probabilistic phenotypes from heterogeneous EHR data](http://www.ncbi.nlm.nih.gov/pubmed/26464024) - Pivovarov R, Perotte AJ, Grave E, Angiolillo J, Wiggins CH, Elhadad N, **Journal of Biomedical Informatics 2015**
