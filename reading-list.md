@@ -4,8 +4,6 @@ _Proposed list of papers to cover, in no particular order._
 
 ## Next Up
 
-- [Personalized Risk Scoring for Critical Care Prognosis using Mixtures of Gaussian Processes](https://arxiv.org/abs/1610.08853) - Ahmed M. Alaa, Jinsung Yoon, Scott Hu, Mihaela van der Schaar, **arXiv 2016**
-
 ## Recommended
 
 Important, innovative, successful work in the field.
@@ -16,6 +14,7 @@ Important, innovative, successful work in the field.
 - [Learning to Diagnose with LSTM Recurrent Neural Networks](https://arxiv.org/abs/1511.03677) - Zachary C. Lipton, David C. Kale, Charles Elkan, Randall Wetzell **ICLR 2016**
 - [Disease Trajectory Maps](https://arxiv.org/abs/1606.09184) - Peter Schulam, Raman Arora, **NIPS 2016**
 - [Deep Survival Analysis](https://arxiv.org/abs/1608.02158) - Rajesh Ranganath, Adler Perotte, Noémie Elhadad, David Blei, **MLHC 2016**
+- [Personalized Risk Scoring for Critical Care Prognosis using Mixtures of Gaussian Processes](https://arxiv.org/abs/1610.08853) - Ahmed M. Alaa, Jinsung Yoon, Scott Hu, Mihaela van der Schaar, **arXiv 2016**
 
 ## Suggested
 
