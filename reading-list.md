@@ -28,6 +28,13 @@ Important, innovative, successful work in the field.
 - [Learning Cost-Effective and Interpretable Regimes for Treatment Recommendation](https://arxiv.org/abs/1611.07663) - Himabindu Lakkaraju, Cynthia Rudin
 - [Stratification of patient trajectories using covariate latent variable models](https://arxiv.org/abs/1610.08735) - Kieran R. Campbell, Christopher Yau
 - [Demographical Priors for Health Conditions Diagnosis Using Medicare Data](https://arxiv.org/abs/1612.02460) - Fahad Alhasoun, May Alhazzani, Marta C. González
+- Bayesian clustering identifies allergic response patterns that are predictive of clinical outcomes - Rebecca Howard, Magnus Rattray and Panagiotis Papastamoulis
+- Deep Recurrent Models for Prediction of ICU Mortality and Sepsis - Nathan Hunt and Marzyeh Ghassemi
+- A Markov Decision Process to suggest optimal treatment of severe infections in intensive care - Matthieu Komorowski, Anthony Gordon, Leo Anthony Celi and Aldo Faisal
+- Sparse Multivariate Gaussian Processes for Medical Time-Series Prediction - Li-Fang Cheng, Gregory Darnell, Corey Chivers, Michael Draugelis, Kai Li and Barbara Engelhardt
+- The Use of Autoencoders for Discovering Patient Phenotypes - Harini Suresh and Marzyeh Ghassemi
+- Time-series clustering for discovering trajectories of physiological deterioration in post-operative care - Hamish Tomlinson, Marco Pimentel, Peter Watkinson and Lionel Tarassenko
+- Bayesian latent variable modelling to accelerate endotype discovery in asthma and allergic diseases - Danielle Belgrave, Raquel Granell, John Guiver, Christopher Bishop, Iain Buchan, Angela Simpson, John Henderson and Adnan Custovic
 
 ### Unsorted
 - [Doctor AI: Predicting Clinical Events via Recurrent Neural Networks](https://arxiv.org/abs/1511.05942) - Edward Choi, Mohammad Taha Bahadori, Andy Schuetz, Walter F. Stewart, Jimeng Sun, **MLHC 2016** (formerly MUCMD)
