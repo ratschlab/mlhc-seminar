@@ -2,8 +2,6 @@
 
 _Proposed list of papers to cover, in no particular order._
 
-## Next Up
-
 ## Recommended
 
 Important, innovative, successful work in the field.
