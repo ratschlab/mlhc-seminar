@@ -18,6 +18,18 @@ Important, innovative, successful work in the field.
 
 ## Suggested
 
+### NIPS 2016 ML4HC
+- [Multi-task Learning for Predicting Health, Stress, and Happiness](http://affect.media.mit.edu/pdfs/16.Jaques-Taylor-et-al-PredictingHealthStressHappiness.pdf) - Natasha Jaques, Sara Taylor, Ehimwenma Nosakhare, Akane Sano, Rosalind Picard
+- [Predictive Clinical Decision Support System with RNN Encoding and Tensor Decoding](https://arxiv.org/abs/1612.00611) - Yinchong Yang, Peter A. Fasching, Markus Wallwiener, Tanja N. Fehm, Sara Y. Brucker, Volker Tresp
+- [Transfer Learning Across Patient Variations with Hidden Parameter Markov Decision Processes](https://arxiv.org/abs/1612.00475) - Taylor Killian, George Konidaris, Finale Doshi-Velez
+- [A temporal model for multiple sclerosis course evolution](https://arxiv.org/abs/1612.00615) - Samuele Fiorini, Andrea Tacchino, Giampaolo Brichetto, Alessandro Verri, Annalisa Barla
+- [Supervised topic models for clinical interpretability](https://arxiv.org/abs/1612.01678) - Michael C. Hughes, Huseyin Melih Elibol, Thomas McCoy, Roy Perlis, Finale Doshi-Velez
+- [Modeling trajectories of mental health: challenges and opportunities](https://arxiv.org/abs/1612.01055) - Lauren Erdman, Ekansh Sharma, Eva Unternahrer, Shantala Hari Dass, Kieran ODonnell, Sara Mostafavi, Rachel Edgar, Michael Kobor, Helene Gaudreau, Michael Meaney, Anna Goldenberg
+- [Learning Cost-Effective and Interpretable Regimes for Treatment Recommendation](https://arxiv.org/abs/1611.07663) - Himabindu Lakkaraju, Cynthia Rudin
+- [Stratification of patient trajectories using covariate latent variable models](https://arxiv.org/abs/1610.08735) - Kieran R. Campbell, Christopher Yau
+- [Demographical Priors for Health Conditions Diagnosis Using Medicare Data](https://arxiv.org/abs/1612.02460) - Fahad Alhasoun, May Alhazzani, Marta C. González
+
+### Unsorted
 - [Doctor AI: Predicting Clinical Events via Recurrent Neural Networks](https://arxiv.org/abs/1511.05942) - Edward Choi, Mohammad Taha Bahadori, Andy Schuetz, Walter F. Stewart, Jimeng Sun, **MLHC 2016** (formerly MUCMD)
 - [Multi-layer Representation Learning for Medical Concepts](http://www.kdd.org/kdd2016/subtopic/view/multi-layer-representation-learning-for-medical-concepts) - Edward Choi, Mohammad Bahadori, Jimeng Sun, **KDD 2016**
 - [Using recurrent neural network models for early detection of heart failure onset](http://jamia.oxfordjournals.org/content/early/2016/08/13/jamia.ocw112.full) - Edward Choi, Andy Schuetz, Walter F Stewart, Jimeng Sun, **JAMIA 2016**
