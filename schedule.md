@@ -1,5 +1,11 @@
 Discussion takes place in CAB H53, 16:00 on a Friday unless otherwise specified.
 
+## 2017
+
+### January
+
+- *Friday 20th*: (Stephanie Hyland) [ RETAIN: Interpretable Predictive Model in Healthcare using Reverse Time Attention Mechanism](http://arxiv.org/abs/1608.05745) - Edward Choi, Mohammad Taha Bahadori, Andy Schuetz, Walter F. Stewart, Jimeng Sun **NIPS 2016**
+
 ## 2016
 
 ### December
