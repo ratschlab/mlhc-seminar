@@ -8,11 +8,12 @@ Important, innovative, successful work in the field.
 
 ## Already Covered
 
-- [Learning probabilistic phenotypes from heterogeneous EHR data](http://www.ncbi.nlm.nih.gov/pubmed/26464024) - Pivovarov R, Perotte AJ, Grave E, Angiolillo J, Wiggins CH, Elhadad N, **Journal of Biomedical Informatics 2015**
-- [Learning to Diagnose with LSTM Recurrent Neural Networks](https://arxiv.org/abs/1511.03677) - Zachary C. Lipton, David C. Kale, Charles Elkan, Randall Wetzell **ICLR 2016**
-- [Disease Trajectory Maps](https://arxiv.org/abs/1606.09184) - Peter Schulam, Raman Arora, **NIPS 2016**
-- [Deep Survival Analysis](https://arxiv.org/abs/1608.02158) - Rajesh Ranganath, Adler Perotte, Noémie Elhadad, David Blei, **MLHC 2016**
+- [Multi-layer Representation Learning for Medical Concepts](https://arxiv.org/abs/1602.05568) - Edward Choi, Mohammad Taha Bahadori, Elizabeth Searles, Catherine Coffey, Jimeng Sun, **KDD 2016**
 - [Personalized Risk Scoring for Critical Care Prognosis using Mixtures of Gaussian Processes](https://arxiv.org/abs/1610.08853) - Ahmed M. Alaa, Jinsung Yoon, Scott Hu, Mihaela van der Schaar, **arXiv 2016**
+- [Deep Survival Analysis](https://arxiv.org/abs/1608.02158) - Rajesh Ranganath, Adler Perotte, Noémie Elhadad, David Blei, **MLHC 2016**
+- [Disease Trajectory Maps](https://arxiv.org/abs/1606.09184) - Peter Schulam, Raman Arora, **NIPS 2016**
+- [Learning to Diagnose with LSTM Recurrent Neural Networks](https://arxiv.org/abs/1511.03677) - Zachary C. Lipton, David C. Kale, Charles Elkan, Randall Wetzell **ICLR 2016**
+- [Learning probabilistic phenotypes from heterogeneous EHR data](http://www.ncbi.nlm.nih.gov/pubmed/26464024) - Pivovarov R, Perotte AJ, Grave E, Angiolillo J, Wiggins CH, Elhadad N, **Journal of Biomedical Informatics 2015**
 
 ## Suggested
 
@@ -37,7 +38,6 @@ Important, innovative, successful work in the field.
 ### Unsorted
 - [Patient Risk Stratification with Time-Varying Parameters: A Multitask Learning Approach](https://research.microsoft.com/en-us/um/people/horvitz/JMLR_multitask_learning_Cdiff_2016.pdf) - Jenna Wiens, John Guttag, Eric Horvitz, **JMLR 2016**
 - [Doctor AI: Predicting Clinical Events via Recurrent Neural Networks](https://arxiv.org/abs/1511.05942) - Edward Choi, Mohammad Taha Bahadori, Andy Schuetz, Walter F. Stewart, Jimeng Sun, **MLHC 2016** (formerly MUCMD)
-- [Multi-layer Representation Learning for Medical Concepts](http://www.kdd.org/kdd2016/subtopic/view/multi-layer-representation-learning-for-medical-concepts) - Edward Choi, Mohammad Bahadori, Jimeng Sun, **KDD 2016**
 - [Using recurrent neural network models for early detection of heart failure onset](http://jamia.oxfordjournals.org/content/early/2016/08/13/jamia.ocw112.full) - Edward Choi, Andy Schuetz, Walter F Stewart, Jimeng Sun, **JAMIA 2016**
 - [Efficient Learning of Continuous-Time Hidden Markov Models for Disease Progression](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4804157/) - Yu-Ying Liu, Shuang Li, Fuxin Li, Le Song, and James M. Rehg, **NIPS 2015**
 - [Integrative Analysis Using Coupled Latent Variable Models for Individualizing Prognoses](https://dl.dropboxusercontent.com/u/20167181/Schulam%2BSaria.CLTM.pdf) - P. Schulam, S. Saria **JMLR 2016**
