@@ -8,6 +8,7 @@ Important, innovative, successful work in the field.
 
 ## Already Covered
 
+- [ RETAIN: Interpretable Predictive Model in Healthcare using Reverse Time Attention Mechanism](http://arxiv.org/abs/1608.05745) - Edward Choi, Mohammad Taha Bahadori, Andy Schuetz, Walter F. Stewart, Jimeng Sun **NIPS 2016**
 - [Multi-layer Representation Learning for Medical Concepts](https://arxiv.org/abs/1602.05568) - Edward Choi, Mohammad Taha Bahadori, Elizabeth Searles, Catherine Coffey, Jimeng Sun, **KDD 2016**
 - [Personalized Risk Scoring for Critical Care Prognosis using Mixtures of Gaussian Processes](https://arxiv.org/abs/1610.08853) - Ahmed M. Alaa, Jinsung Yoon, Scott Hu, Mihaela van der Schaar, **arXiv 2016**
 - [Deep Survival Analysis](https://arxiv.org/abs/1608.02158) - Rajesh Ranganath, Adler Perotte, Noémie Elhadad, David Blei, **MLHC 2016**
@@ -41,7 +42,6 @@ Important, innovative, successful work in the field.
 - [Using recurrent neural network models for early detection of heart failure onset](http://jamia.oxfordjournals.org/content/early/2016/08/13/jamia.ocw112.full) - Edward Choi, Andy Schuetz, Walter F Stewart, Jimeng Sun, **JAMIA 2016**
 - [Efficient Learning of Continuous-Time Hidden Markov Models for Disease Progression](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4804157/) - Yu-Ying Liu, Shuang Li, Fuxin Li, Le Song, and James M. Rehg, **NIPS 2015**
 - [Integrative Analysis Using Coupled Latent Variable Models for Individualizing Prognoses](https://dl.dropboxusercontent.com/u/20167181/Schulam%2BSaria.CLTM.pdf) - P. Schulam, S. Saria **JMLR 2016**
-- [ RETAIN: Interpretable Predictive Model in Healthcare using Reverse Time Attention Mechanism](http://arxiv.org/abs/1608.05745) - Edward Choi, Mohammad Taha Bahadori, Andy Schuetz, Walter F. Stewart, Jimeng Sun **NIPS 2016**
 - [Learning (predictive) risk scores in the presence of censoring due to interventions](http://link.springer.com/article/10.1007/s10994-015-5527-7) - Kirill Dyagilev, Suchi Saria, **Machine Learning 2016**
 - [A Bayesian Nonparametic Approach for Estimating Individualized Treatment-Response Curves](https://arxiv.org/pdf/1608.05182v1.pdf) - Yanbo Xu, Yanxun Xu, Suchi Saria, *???*
 - [A Framework for Individualizing Predictions of Disease Trajectories by Exploiting Multi-Resolution Structure](https://arxiv.org/abs/1601.04674) - Peter Schulam, Suchi Saria, **NIPS 2015**
