@@ -52,6 +52,7 @@ Important, innovative, successful work in the field.
 
 ## _Maybe_ Relevant
 (pursue at own risk, may be irrelevant/unpublished manuscripts, etc.)
+- [Learning a Health Knowledge Graph from Electronic Medical Records](https://www.nature.com/articles/s41598-017-05778-z.pdf)
 - [Medical Concept Representation Learning from Electronic Health Records and its Application on Heart Failure Prediction](https://arxiv.org/abs/1602.03686)
 - [Semantic representation of reported measurements in radiology](http://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-016-0248-9)
 - [Machine Learning and the Profession of Medicine](http://jamanetwork.com/journals/jama/fullarticle/2488315)
